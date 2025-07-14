@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 I'm Bảo Hứa <br><br>I'm currently a Software Engineer in HCM city   :octocat:  <br /><br>I love applying my knowledge to solve real-world problems, that's the reason why I choose to be an engineer in the first place 🪐 <br /><br>
+###  I'm Bao Hua <br><br>I'm currently a Software Engineer in HCM city   :octocat:  <br /><br>I love applying my knowledge to solve real-world problems, that's the reason why I chose to be an engineer in the first place <br /><br>
 
 
 ## 🌐 Socials:
